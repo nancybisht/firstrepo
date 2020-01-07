@@ -5,6 +5,7 @@ public class PGStudent extends Student {
 	void readBook()
 	{
 		System.out.println("Pg student Book");
+		System.out.println("Studying");
 		
 	}
 
